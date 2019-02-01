@@ -30,7 +30,7 @@ class Converter extends Component{
             <div className="container-fluid">
                 <div className="row">
                     <div className="markdown col">
-                        <textarea id="input-markdown"  rows="30" cols="60" onChange={this.updateText} value={this.state.text}>
+                        <textarea id="input-markdown" className='form-control' rows="30" cols="60" onChange={this.updateText} value={this.state.text}>
                         </textarea>
                     </div>
                     <div className="preview col">

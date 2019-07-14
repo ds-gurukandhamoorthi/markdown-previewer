@@ -4,8 +4,11 @@
   "private": true,
   "homepage": "https://ds-gurukandhamoorthi.github.io/markdown-previewer",
   "dependencies": {
-    "bootstrap": "^4.2.1",
-    "marked": "^0.6.0",
+    "bootstrap": "4.3.1",
+    "handlebars": "4.0.14",
+    "js-yaml": "3.13.0",
+    "lodash": "4.17.13",
+    "marked": "0.6.1",
     "react": "^16.7.0",
     "react-dom": "^16.7.0",
     "react-scripts": "2.1.3"

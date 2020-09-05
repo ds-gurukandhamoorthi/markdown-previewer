@@ -5,7 +5,7 @@
   "homepage": "https://ds-gurukandhamoorthi.github.io/markdown-previewer",
   "dependencies": {
     "bootstrap": "4.3.1",
-    "handlebars": "4.0.14",
+    "handlebars": "4.5.3",
     "js-yaml": "3.13.0",
     "lodash": "4.17.13",
     "marked": "0.6.1",
